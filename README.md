@@ -11,7 +11,7 @@ Deepfakes pose a significant risk because they use advanced artificial intellige
 ## ⚙️  Installation Instructions  
 1) **Openshift (Recommended)**
      
-   i) Copy the repository URL ([https://github.com/ShivamAgarwal-code/RJPOLICE_HACK_297_Sirus_8.git(https://github.com/ShivamAgarwal-code/RJPOLICE_HACK_297_Sirus_8.git))  
+   i) Copy the repository URL ([https://github.com/ShivamAgarwal-code/RJPOLICE_HACK_297_Sirus_8.git](https://github.com/ShivamAgarwal-code/RJPOLICE_HACK_297_Sirus_8.git))  
    ii) From OpenShift console, click on "+ Add" from the sidebar  
    iii) Select "Import from Git" from the various options displayed.  
    iv) Paste the repository URL and set the resource type as "Deployment"  
